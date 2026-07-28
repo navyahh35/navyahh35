@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Navya p p<br>Basic knowdege about java,sql,web development<br>Currently exploring data structure,Algorithm,Machine Learning<br>opento collaboration on coding ,database and software projects.
+Hey, I'm Navya p 
 
 
 ## 🌐 Socials:
